@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Instagram-24292f?style=for-the-badge&logo=instagram&logoColor=F34F28" target="_blank">
   </a>
 
-  <a href="https://docs.google.com/document/d/1XA2xSdDKJ7BGd4PDRHsn5GWKivLhZq5_M_s39HC6fU4/edit?usp=sharing" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Resume-24292f?style=for-the-badge&logo=googledocs&logoColor=F34F28" target="_blank">
   </a>
 </div>
