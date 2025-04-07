@@ -3,7 +3,7 @@
 - A passionate Software Engineer hailing from Brazil. 🇧🇷
 - Currently a Software Engineer at Buzzmonitor specializing in backend development.
 - Experienced in Ruby on Rails, Java, and Spring Boot.
-- Graduating in Information Technology at the Federal University of Rio Grande do Norte (UFRN), Brazil.
+- Bachelor in Information Technology at the Federal University of Rio Grande do Norte (UFRN), Brazil.
 - Over 4 years of experience in developing web APIs, crawlers, and microservices.
 - Let's connect and make some web wonders together! 🚀
 
